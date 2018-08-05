@@ -31,6 +31,7 @@ Use the Table of Contents to practice and test your knowledge. It doesn't show t
     - What is the difference between not-running, inactive, active, background and suspended execution states?
     - Is it faster to iterate through an NSArray or an NSSet?
     - What is KVO?
+    - What is the difference between swift and Objective c?
 - [Memory Management](https://github.com/onthecodepath/iOS-Interview-Questions#memory-management)
     - Why do you generally create a weak reference when using self in a block?
     - What is memory management handled on iOS?
